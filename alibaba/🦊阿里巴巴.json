@@ -15,7 +15,7 @@
 	  "key": "豆瓣",
 	  "name": "🔍豆瓣荐片",
 	  "type": 3,
-	  "api": "./lib/apiv23drpy2.min.js",
+	  "api": "./lib/apiv43apiv23drpy2.min.js",
 	  "searchable": 0,
 	  "quickSearch": 0,
 	  "filterable": 0,
@@ -88,6 +88,12 @@
       "changeable": 0,
       "ext": "null$$$yunshuche$$$11223344"
     },
+
+{"key":"贱贱","name":"🐭贱片┃p2p","type":3,"playerType":"1","api":"./lib/apiv23drpy1.min.js","ext":"./lib/jp.js"},
+
+
+
+
     {
       "key": "push_agent",
       "name": "\uD83C\uDF6D推送",
