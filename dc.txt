@@ -1,8 +1,7 @@
 {"urls":[
-{[网址]："https://gitee.Com/liu-fubiao/qy/raw/main/alibaba/you/Jone"，[json]："[
-{[网址]："https://gitee.Com/liu-fubiao/qy/raw/main/alibaba/you/Jone"，[json]："[
-{[url]：[http：//饭太硬。top/tv]，“名称”：“master”：“master”：“http：//you mayou
-{[url]：[http://weixine.link:33/运输专线]，[youth youth]}
-{“网址”：“https://agit.AI/895322156/q/raw/branch/master/TV/jy.Txt”，“make️mayou molow”}
+{"url":"https://gitee.com/liu-fubiao/qy/raw/main/alibaba/🦊阿里巴巴.json","name":"🦊阿里巴巴"},
+{"url":"http://饭太硬.top/tv","name":"🍜饭太硬"},
+{"url":"http://weixine.link:33/运输专线","name":"🚚运输车"},
+{"url":"http://ysc.weixine.net:88/荷城茶秀","name":"🌷荷城茶秀"},
+{"url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt","name":"❤️儿童专用"}
 ]}
-
