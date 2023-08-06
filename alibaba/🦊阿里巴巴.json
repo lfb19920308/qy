@@ -23,7 +23,13 @@
     },
  
 
-    {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar":"./lib/1.jar;md5;18b8df1e0f7813098c1e70979a264aad"},
+    {"key":"csp_WoGG",
+	    "name":"👽玩偶哥哥┃4K",
+	    "type":3,"api":"csp_WoGG",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "changeable":1,
+	    "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar":"./lib/1.jar;md5;18b8df1e0f7813098c1e70979a264aad"},
     {
       "key": "UP云搜",
       "name": "🖥UP云搜",
