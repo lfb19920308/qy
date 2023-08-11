@@ -2,10 +2,9 @@
   "spider": "./lib/alibaba.jar;md5;76bdfae3bec969923bc6a877fc4a4eb8",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
-  
-    {
+  {
       "key": "csp_KungFu404",
-      "name": "🔥有效播放源",
+      "name": "🎦有效聚合",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -14,7 +13,7 @@
     },
     {
 	  "key": "豆瓣",
-	  "name": "🔮豆瓣推荐",
+	  "name": "🔍豆瓣荐片",
 	  "type": 3,
 	  "api": "./lib/min2.js",
 	  "searchable": 0,
@@ -24,26 +23,30 @@
     },
  
 
-    {"key":"csp_WoGG",
-	    "name":"🕵🏻‍♂️玩偶哥哥4K",
-	    "type":3,"api":"csp_WoGG",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "changeable":1,
-	    "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar":"./lib/1.jar;md5;18b8df1e0f7813098c1e70979a264aad"},
-	{
-      "key": "荐片",
-      "name": "荐片(cli)",
+    {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar":"./lib/1.jar;md5;18b8df1e0f7813098c1e70979a264aad"},
+    
+    {
+      "key": "T4_玩偶",
+      "name": "玩偶.T4",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "api": "http://120.53.102.254/t4/t4ali",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-	    
+  {
+      "key": "csp_woggcli",
+      "name": "俊哥玩偶.CLi",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
     {
       "key": "UP云搜",
-      "name": "🔍UP搜索",
+      "name": "🖥UP云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -52,7 +55,7 @@
     },
     {
       "key": "纸条",
-      "name": "🔍纸条搜索",
+      "name": "🖥纸条搜索",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -61,7 +64,7 @@
     },
     {
       "key": "易搜",
-      "name": "🔍易搜搜索",
+      "name": "🖥易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -70,7 +73,7 @@
     },
     {
       "key": "阿里云盘",
-      "name": "🔍云盘搜索",
+      "name": "🖥阿里云盘",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -79,7 +82,7 @@
     },
     {
       "key": "盘搜",
-      "name": "🔍盘搜搜索",
+      "name": "🖥盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -88,7 +91,7 @@
     },
     {
       "key": "网盘搜索",
-      "name": "🔍网盘搜索",
+      "name": "🖥网盘搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -97,7 +100,7 @@
     },
     {
       "key": "找资源",
-      "name": "🔍找资源搜索",
+      "name": "🖥找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -106,19 +109,19 @@
       "ext": "null$$$yunshuche$$$11223344"
     },
 
+{"key":"贱贱","name":"🐭贱片┃p2p","type":3,"playerType":"1","api":"./lib/min1.js","ext":"./lib/jp.js"},
 
-{
+
+
+
+    {
       "key": "push_agent",
-      "name": "📲推送",
+      "name": "\uD83C\uDF6D推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
     }
-
-
-
-
   ]
 }
