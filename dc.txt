@@ -1,5 +1,5 @@
 {"urls":[
-{"url":"https://gitee.com/liu-fubiao/qy/raw/main/alibaba/🦊阿里巴巴.json","name":"🦊阿里巴巴"},
+{"url":"https://raw.githubusercontent.com/lfb19920308/qy/main/alibaba/%F0%9F%A6%8A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.json","name":"🦊阿里巴巴"},
 {"url":"http://饭太硬.top/tv","name":"🍜饭太硬"},
 {"url":"http://weixine.link:33/运输专线","name":"🚚运输车"},
 {"url":"http://weixine.link:88/荷城茶秀","name":"🌷荷城茶秀"},
